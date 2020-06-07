@@ -16,3 +16,11 @@ Software environment for the AHM examples
   - lme4
   - denstrip
   - rgdal
+
+## How to run
+
+```
+docker run --rm -p 8787:8787 -e PASSWORD=yourpasswordhere ito4303/ahmbook:3.6.3
+```
+
+For details, see https://hub.docker.com/r/rocker/rstudio
