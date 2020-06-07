@@ -1,4 +1,4 @@
-# Dockerfile for "Advanced Hierarchical Modeling in Ecology"
+# Dockerfile for "Applied Hierarchical Modeling in Ecology"
 
 Software environment for the AHM examples
 
