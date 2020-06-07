@@ -1,7 +1,6 @@
-FROM rocker/tidyverse:3.6.3
+FROM rocker/rstudio:3.6.3
 
 # From https://hub.docker.com/r/kazutan/stan-d/dockerfile
-
 # Change environment to Japanese(Character and DateTime)
 ENV LANG ja_JP.UTF-8
 ENV LC_ALL ja_JP.UTF-8
